@@ -4,7 +4,7 @@
 
 **AI Developer · Frontend Engineer · Automation Specialist**
 
-[![LinkedIn](https://www.linkedin.com/in/mahreenahmed/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mahreenahmed/)
 
 </div>
 
