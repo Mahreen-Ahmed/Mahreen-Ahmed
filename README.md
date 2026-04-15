@@ -5,8 +5,6 @@
 **AI Developer · Frontend Engineer · Automation Specialist**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mahreenahmed/)
-[![GitHub followers](https://img.shields.io/github/followers/Mahreen-Ahmed?style=for-the-badge&color=181717&logo=github)](https://github.com/Mahreen-Ahmed)
-[![Profile Views](https://komarev.com/ghpvc/?username=Mahreen-Ahmed&style=for-the-badge&color=0e75b6)](https://github.com/Mahreen-Ahmed)
 
 </div>
 
