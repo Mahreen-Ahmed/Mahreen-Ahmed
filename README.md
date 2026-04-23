@@ -68,13 +68,6 @@ I thrive in fast-paced, team-oriented environments and am passionate about apply
 
 ---
 
-## 📌 Pinned Projects
-
-- [`newsletter-sign-up-with-message`](https://github.com/Mahreen-Ahmed/newsletter-sign-up-with-message) — Frontend challenge: newsletter signup UI
-- [`Product-preview-card`](https://github.com/Mahreen-Ahmed/Product-preview-card) — Clean product preview card component
-
----
-
 <div align="center">
 
 *"Committed to growing as a proficient, innovative, and collaborative engineer."*
