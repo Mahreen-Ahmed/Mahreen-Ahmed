@@ -51,7 +51,7 @@ I thrive in fast-paced, team-oriented environments and am passionate about apply
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mahreen-Ahmed&theme=github-dark&hide_border=true&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mahreen-Ahmed&theme=github-dark&hide_border=true&cache_seconds=60)
 
 </div>
 
