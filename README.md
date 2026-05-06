@@ -41,13 +41,13 @@ I thrive in fast-paced, team-oriented environments and am passionate about apply
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mahreen-Ahmed&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
 &nbsp;&nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahreen-Ahmed&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
-</div>
+</div> -->
 
 <div align="center">
 
