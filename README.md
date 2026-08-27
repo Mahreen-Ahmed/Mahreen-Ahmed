@@ -2,7 +2,7 @@
 
 # Mahreen Ahmed
 
-**AI Developer · Frontend Engineer · Automation Specialist**
+**AI Developer · Full Stack Engineer · Automation Specialist**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahreenahmed/)
 
