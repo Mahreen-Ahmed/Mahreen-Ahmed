@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a Software Engineer with **3+ years of hands-on experience** building AI-powered tools, frontend interfaces, and automation systems. Currently working as an **AI Developer / Automation Engineer at Gosign**, where I design and implement intelligent workflows using n8n, REST APIs, and modern web technologies.
+I'm a Software Engineer with **4+ years of hands-on experience** building AI-powered tools, frontend interfaces, and automation systems. Currently working as an **AI Developer / Automation Engineer at Gosign**, where I design and implement intelligent workflows using n8n, REST APIs, and modern web technologies.
 
 I thrive in fast-paced, team-oriented environments and am passionate about applying AI practically to solve real business problems.
 
